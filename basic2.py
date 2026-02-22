@@ -15,3 +15,4 @@ n.append(9)
 print(n)
 n.remove(5)
 print(n)
+
