@@ -7,4 +7,10 @@ print(coffee)
 
 coffee.pop(2)
 print(coffee)
+#2
+number = [ 1,28,9,6]
+print(sorted(number))
 
+number.reverse()
+print(number)
+print(number.index(28))
